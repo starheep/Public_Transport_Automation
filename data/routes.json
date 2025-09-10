@@ -1,0 +1,12 @@
+[
+  {
+    "routeId": "1",
+    "name": "City Center → Industrial Area",
+    "stops": ["Main Square", "Library", "Bus Depot", "Industrial Park"]
+  },
+  {
+    "routeId": "2",
+    "name": "East Side → West Market",
+    "stops": ["East Terminal", "Mall Road", "Town Hall", "West Market"]
+  }
+]

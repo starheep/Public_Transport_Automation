@@ -1,0 +1,23 @@
+[
+  {
+    "busId": "101",
+    "routeId": "1",
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "eta": "5 mins"
+  },
+  {
+    "busId": "102",
+    "routeId": "1",
+    "latitude": 28.6150,
+    "longitude": 77.2150,
+    "eta": "8 mins"
+  },
+  {
+    "busId": "201",
+    "routeId": "2",
+    "latitude": 28.6200,
+    "longitude": 77.2100,
+    "eta": "3 mins"
+  }
+]
